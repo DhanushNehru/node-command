@@ -2,7 +2,7 @@
 
 > Simple and robust Node.js utility to run shell commands asynchronously and synchronously
 
-<img width="1536" height="1024" alt="node-cmd-exe" src="https://github.com/user-attachments/assets/660eb7af-ee2c-495d-8bd5-104428526331" />
+<img width="1536" height="1024" alt="L" src="https://github.com/user-attachments/assets/41461a9e-88cb-4f6e-8684-d9dad322609e" />
 
 `node-cmd-exec` provides a straightforward API to execute system commands from Node.js using both asynchronous Promises (with optional callbacks) and synchronous calls. It handles errors gracefully and returns both stdout and stderr outputs.
 
