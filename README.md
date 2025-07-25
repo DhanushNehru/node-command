@@ -1,8 +1,8 @@
-# node-command
+# node-cmd-exec
 
 > Simple and robust Node.js utility to run shell commands asynchronously and synchronously
 
-`node-command` provides a straightforward API to execute system commands from Node.js using both asynchronous Promises (with optional callbacks) and synchronous calls. It handles errors gracefully and returns both stdout and stderr outputs.
+`node-cmd-exec` provides a straightforward API to execute system commands from Node.js using both asynchronous Promises (with optional callbacks) and synchronous calls. It handles errors gracefully and returns both stdout and stderr outputs.
 
 ---
 
@@ -20,15 +20,15 @@
 ## Installation
 
 ```
-npm install node-command
+npm install node-cmd-exec
 ```
 
 ## Usage
 
 ```javascript
-const nodeCmd = require('node-command');
+const nodeCmd = require('node-cmd-exec');
 // or, if using ESM:
-// import * as nodeCmd from 'node-command';
+// import * as nodeCmd from 'node-cmd-exec';
 
 // Asynchronous usage (Promise + optional callback)
 const command = 'ls -la';
