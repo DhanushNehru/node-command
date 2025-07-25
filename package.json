@@ -1,0 +1,29 @@
+{
+  "name": "node-command",
+  "version": "1.0.0",
+  "description": "Modern command line interface to allow you to run bash or CLI style commands as if you were in the terminal in your NodeJs applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanushNehru/node-command.git"
+  },
+  "keywords": [
+    "commandline",
+    "terminal",
+    "shell",
+    "cmd",
+    "cli",
+    "bash",
+    "script",
+    "node"
+  ],
+  "author": "Dhanush Nehru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhanushNehru/node-command/issues"
+  },
+  "homepage": "https://github.com/DhanushNehru/node-command#readme"
+}
